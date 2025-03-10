@@ -1,5 +1,6 @@
 # 100-Days-of-ML - Progress Log
-Started on 9 March 2025 (Day1)
+███▓▒░ 𝘚𝘠𝘚𝘛𝘌𝘔 𝘋𝘈𝘛𝘌 ░▒▓███  
+🕹️ **09-MAR-2025 // SYSTEM ONLINE**  
 
 Track progress at [Notion](https://light-magnolia-fa3.notion.site/100DaysofML-1b0500643b73802a81bdfe1e9c40dd8b?pvs=74)
 
