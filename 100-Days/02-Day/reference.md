@@ -1,4 +1,4 @@
-### **Day 2: RNNs**  
+# **Day 2: RNNs**  
 • Refreshed RNN concepts 🔄  
 • Implemented LSTM & GRU from scratch 🛠️  
 • Read:  
