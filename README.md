@@ -1,10 +1,10 @@
-# 100-Days-of-ML - Progress Log
+# 100-Days-of-ML  {Progress Log}
 ⏳ **𝙏𝙞𝙢𝙚 𝙨𝙩𝙖𝙢𝙥:** `2025-03-09`  
 🕶️ *The code chooses its own path...*  
 
 Track progress at [Notion](https://light-magnolia-fa3.notion.site/100DaysofML-1b0500643b73802a81bdfe1e9c40dd8b?pvs=74)
 ---
-### **Day 1: Backpropagation** `2025-03-09`  
+### **Day 1: Backpropagation**  
 • Refreshed the concept of backpropagation.  
 • Implemented backpropagation from scratch in a neural network.  
 - Read:  
@@ -23,7 +23,5 @@ Track progress at [Notion](https://light-magnolia-fa3.notion.site/100DaysofML-1b
 • Implemented a RNN model 🛠️  
 - Read:  
       - Tomas Mikolov's [Thesis](https://www.fit.vut.cz/person/imikolov/public/rnnlm/thesis.pdf) 📖  
-
-
 
 ---  
