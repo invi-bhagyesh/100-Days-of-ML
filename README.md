@@ -4,7 +4,7 @@
 
 Track progress at [Notion](https://light-magnolia-fa3.notion.site/100DaysofML-1b0500643b73802a81bdfe1e9c40dd8b?pvs=74)
 ---
-### **Day 1: Backpropagation**
+### **Day 1: Backpropagation** `2025-03-09`  
 • Refreshed the concept of backpropagation.  
 • Implemented backpropagation from scratch in a neural network.  
 - Read:  
