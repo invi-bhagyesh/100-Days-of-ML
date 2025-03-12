@@ -1,4 +1,4 @@
-#Day 4: NLP #100DaysOfML✅
+# Day 4: NLP #100DaysOfML✅
 
 • Started Week 3 of [DeepLearningAI's Sequence Models course](https://www.coursera.org/learn/nlp-sequence-models/)    
 
