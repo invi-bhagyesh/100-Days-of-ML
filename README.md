@@ -23,5 +23,14 @@ Track progress at [Notion](https://light-magnolia-fa3.notion.site/100DaysofML-1b
 • Implemented a RNN model 🛠️  
 - Read:  
       - Tomas Mikolov's [Thesis](https://www.fit.vut.cz/person/imikolov/public/rnnlm/thesis.pdf) 📖  
+---
+# **Day 4: RNN**  
+• Started Week 3 of [DeepLearningAI's](https://www.coursera.org/learn/nlp-sequence-models/home/welcome) Sequence Models course 🔄 
+• Read:  
+      - Began with [Speech and Language Processing book](https://www.notion.so/100DaysofML-1b0500643b73802a81bdfe1e9c40dd8b) to understand NLP  📖  
+---
+# **Day 5: RNN**  
+• Continuing Week 3 of [DeepLearningAI's](https://www.coursera.org/learn/nlp-sequence-models/home/welcome) Sequence Models course 🔄 
+• Read:  
+      - Read [LSTM paper](https://www.bioinf.jku.at/publications/older/2604.pdf)), will have to reread tomorrow 📖  
 
----  
